@@ -1,0 +1,7 @@
+*.pyc
+.idea/
+db.sqlite3
+static_cdn/
+media_cdn/
+logs/
+venv/
